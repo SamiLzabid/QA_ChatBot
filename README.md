@@ -35,6 +35,7 @@ Retrieval Optimization: When a user submits an execution query, a Groq-powered p
 Synthesis: Relevant vector fragments are retrieved from Chroma, structured alongside the conversational history, and synthesized into a precise response by the Groq core language model.
 
 ## Web App SS
-<img width="1879" height="853" alt="image" src="https://github.com/user-attachments/assets/9cebd7c3-3f2e-4fdd-9ab1-a13ca5ca3ce9" />
-<img width="1901" height="863" alt="image" src="https://github.com/user-attachments/assets/a840be24-2b68-4f3b-b020-e81373a9f035" />
+<img width="1884" height="865" alt="image" src="https://github.com/user-attachments/assets/5c2e6a14-858f-4a18-8d86-abba4172ddf4" />
+<img width="1890" height="855" alt="image" src="https://github.com/user-attachments/assets/b77f8d6f-286e-41cf-b74a-74d9d067c0b6" />
+
 
